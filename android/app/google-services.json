@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511159291725",
+    "firebase_url": "https://streecare-1b2fb.firebaseio.com",
+    "project_id": "streecare-1b2fb",
+    "storage_bucket": "streecare-1b2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511159291725:android:105d96fbc96571f82d7104",
+        "android_client_info": {
+          "package_name": "com.example.streecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511159291725-v3orcbhl5aab0e6ivoir4e7irhg4j31o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streecare",
+            "certificate_hash": "b28e111f3b3e5f68c6140b2c6e130cb5b4ad499a"
+          }
+        },
+        {
+          "client_id": "511159291725-tpvi8khadom5hpa73e8gnlq55ccdtol4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJfZ3BRGKYZJVoxCYyTgyVodRJSAzzpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511159291725-tpvi8khadom5hpa73e8gnlq55ccdtol4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

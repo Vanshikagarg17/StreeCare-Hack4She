@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "streecare-nfim",
+  "private_key_id": "def69e136eb5f0508298702c0d5cdd18bed970d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCassaPmzT1SZNk\n0WsdXWpw2SToPH8nrUHe9/G0S3HBOLaQl7pH7fhBuOLgZ0iNqMgbq4QHmdnQd8UF\nI+2tvzpwQ/qH0qbXRk5j5UZRldg4noEXxZaNoozoS/8+eqyFS/HI744xhoKvwHMT\nxA4vrFuUmUzmcY9lbSBjRWizusOlB2uBc7fseqCot4iEoF8OzdqGlDxcG6rCLjIM\nioFVi8K84Q3kpwFSAoKInNgBeiBMwqp6MPPL7JvPgPDSdZQ8h354oTNHcpGHN0Ex\nvnRxvV8U34MjbmCOzB8Db+j9a49LxatDjwvpqyzADkA8qj/qZmmv6Sh5cYJvVSGN\nwFtkjkjpAgMBAAECggEAAUP+1DRGByRedH/dcKSP1zOCQJ96FNYvM0aeWhtskf2c\n9MA2XG9JzX6DO1MXqLJdohL8ULRFWsDCwmDXCXRb4zOTLE2guCMm8gdGqiqKgHq/\nffUhCbCaQYOZp3uzx0q7RCm9j+cp+4vHWpKLNoBM/CwS5nxoWsE9TMKdHCymJsaj\nrH9MdM3ZS7w5TmyE4ZwzMNhXPsY1GJ3rNGFPkbCka7vfBU4knEChN8xP9Zh1byI8\nQGrDoRS6EDU8fIcTwbHwGzzXzt7pXaQ8LAhWLmllmp75x7QuTo23eMq1wgkUFTcp\nPp/6h7RGgZlCuupoK+VL782BdW9Ge2oaMSf7K+qu7wKBgQDMGYhKWDG0/lLDUBdi\nYjr33087aCsc8+vhcESXqmxIzyceN7YWU05FMFydMiMiHI75y2IUyuLmNddZjla4\nIfGXQjqd0noYOiG3DR5TQ9icrWcfpjXP4z1wwMJOmHkWzJHYXXYcf4stAbqpEUa3\nNRTpLq4P9uSUz+mgkHKTK0kjrwKBgQDCCVDAh3yEu2nsSWNcQ6b0TEwzv3D5UaJK\na3whDccDVoydY1VifYPe68XL7FhU4iKiw32ZxCaG62eHTeDQHeoccgc6ekbnVMFG\n2iMXWi5IAX5ndjyeUzciM0//GfviRhvPf+SolUTm5VnhF5aUvTY1GQMbj/eFmq9A\nug7W1cnK5wKBgFgTGI5EesbJDPv9vumUzC+U7QMM07X9yKeTI/Zy86GDyzSuA+Sk\ndF1FHmIzdZfNzSEcVCn2121ShKi/1MpG05NbYCIk5s03oL72aUSzPXF3Hs44knYw\ncJ4MgI0cHPzqsHE2+7YWj/+PBHba3rJGtMxfeXuoJkHVatMAIoFBp6E/AoGBAIzF\n62MzKMC3o7p85+xZXLgi3qowe0s20bKCVrU4ZKlkUnIhTiI9g73oekFfgBpdUdma\nUPaNG5KJGTxN4Qu8mEv44ouniOduUycPPaRElg1BoC551rLbFsXmSmR+uoLIcIbT\nd9ZjLXEC9nla/rF8sOZG9j057s9skTc5hWiSBGwDAoGBAL+vrIuojyfHFsjjBKeM\nfS8IGN1Zyc9FakQNLyPNVSZI3RWTxUy39pRa1/a26x8FyFeJf2BZyPBo9NKPcHvL\n0EpRftjhNEm9Xv7jTS780kp0K3Pcp8zzNNSTz0TWqWGCB4I8GoP7BVOdFSbkv+Wl\nKwZe4bxzo70L9kMrcG7oeHIi\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@streecare-nfim.iam.gserviceaccount.com",
+  "client_id": "104461080790580215846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40streecare-nfim.iam.gserviceaccount.com"
+}
