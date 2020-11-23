@@ -14,7 +14,8 @@ Rural women play a significant role inside the houses as well as on farms along 
 
 ## Tech Stack 
 
-Flutter | Dart | Firestore | DialogFlow | Google Translate API |
+| Flutter | Dart | Firestore | DialogFlow | Google Translate API |
+ | :---: | :---: | :---: | :---: | :---: | 
 
 
 # Screenshots
